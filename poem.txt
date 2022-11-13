@@ -7,4 +7,5 @@ Cucumber
 Lettuce
 Peppers
 Red onion
+Cheese
 Bread
