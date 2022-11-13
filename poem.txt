@@ -7,6 +7,6 @@ Cucumber
 Lettuce
 Peppers
 Red onion
-Cheese
+Vegan cheese
 Extra onion
 Bread
